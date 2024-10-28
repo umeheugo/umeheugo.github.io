@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://umeheugo.github.io/sitemap_index.umeheugo
